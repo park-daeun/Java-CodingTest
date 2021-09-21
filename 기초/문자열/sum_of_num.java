@@ -1,3 +1,4 @@
+package 문자열;
 import java.io.*;
 
 public class sum_of_num {
