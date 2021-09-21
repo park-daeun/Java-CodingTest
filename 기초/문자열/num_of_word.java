@@ -1,3 +1,4 @@
+package 문자열;
 import java.io.*;
 
 public class num_of_word {
